@@ -1,5 +1,6 @@
 {
-  "required_api_version": "^1.0.0",
+  "api_version": "2",
+  "manifest_version": "2",
   "name": "Google Search",
   "description": "Extension Description",
   "developer_name": "Roy",
