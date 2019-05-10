@@ -1,5 +1,5 @@
 {
-  "required_api_version": "^4.4.0.r1",
+  "required_api_version": "^4.4.0",
   "name": "Google Search",
   "description": "Extension Description",
   "developer_name": "Roy",
